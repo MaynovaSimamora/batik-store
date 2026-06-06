@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Batik Store</string>
+    <string name="title_products">Beranda</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_cart">Keranjang</string>
+    <string name="title_profile">Profil</string>
+    <string name="error_message">Gagal memuat data.\nPeriksa koneksi internet Anda.</string>
+    <string name="btn_refresh">Coba Lagi</string>
+    <string name="empty_favorite">Belum ada produk favorit.</string>
+    <string name="empty_cart">Keranjang masih kosong.</string>
+    <string name="hint_search">Cari batik…</string>
+    <string name="toggle_theme">Ganti Tema</string>
+    <string name="logout">Keluar</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Batik Coklat — LIGHT -->
+    <color name="batik_brown">#5D4037</color>
+    <color name="batik_brown_dark">#3E2723</color>
+    <color name="batik_brown_light">#8D6E63</color>
+    <color name="batik_gold">#C9972B</color>
+    <color name="batik_gold_dark">#A87C1F</color>
+    <color name="cream">#FBF3E7</color>
+    <color name="cream_card">#FFFFFF</color>
+    <color name="text_dark">#2E2018</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- DARK -->
+    <color name="night_bg">#241813</color>
+    <color name="night_surface">#3A2A20</color>
+    <color name="night_brown">#A1887F</color>
+    <color name="night_gold">#E0B84C</color>
+</resources>

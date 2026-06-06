@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.BatikStore" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/batik_brown</item>
+        <item name="colorPrimaryVariant">@color/batik_brown_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/batik_gold</item>
+        <item name="colorSecondaryVariant">@color/batik_gold_dark</item>
+        <item name="colorOnSecondary">@color/text_dark</item>
+        <item name="android:colorBackground">@color/cream</item>
+        <item name="colorSurface">@color/cream_card</item>
+        <item name="colorOnSurface">@color/text_dark</item>
+        <item name="android:statusBarColor">@color/batik_brown_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+</resources>
