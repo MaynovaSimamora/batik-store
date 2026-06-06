@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Kain Batik Tulis Parang Rusak",
+    "price": 285000,
+    "description": "Kain batik tulis bermotif Parang Rusak dengan garis diagonal khas keraton. Motif ini melambangkan kekuatan, ketangguhan, dan kesinambungan. Bahan katun primissima halus, cocok untuk acara formal.",
+    "category": "Kain Batik",
+    "image": "https://placehold.co/600x600/5d4037/ffffff?text=Batik+Parang+Rusak",
+    "rating": { "rate": 4.8, "count": 132 }
+  },
+  {
+    "id": 2,
+    "title": "Kain Batik Cap Mega Mendung",
+    "price": 195000,
+    "description": "Motif Mega Mendung khas Cirebon berbentuk gradasi awan bertingkat. Melambangkan kesabaran dan ketenangan. Warna cokelat-biru lembut, bahan katun adem dan nyaman dipakai.",
+    "category": "Kain Batik",
+    "image": "https://placehold.co/600x600/6d4c41/ffffff?text=Mega+Mendung",
+    "rating": { "rate": 4.6, "count": 98 }
+  },
+  {
+    "id": 3,
+    "title": "Kain Batik Tulis Kawung",
+    "price": 320000,
+    "description": "Motif Kawung berupa susunan bulatan menyerupai buah aren. Salah satu motif tertua yang melambangkan kesucian dan keadilan. Dibuat dengan teknik tulis tangan penuh.",
+    "category": "Kain Batik",
+    "image": "https://placehold.co/600x600/3e2723/ffffff?text=Batik+Kawung",
+    "rating": { "rate": 4.9, "count": 76 }
+  },
+  {
+    "id": 4,
+    "title": "Kain Batik Sogan Sidomukti",
+    "price": 275000,
+    "description": "Batik Sogan khas Solo dengan dominasi warna cokelat tanah. Motif Sidomukti sering dipakai pada acara pernikahan, melambangkan harapan akan kemakmuran dan kebahagiaan.",
+    "category": "Kain Batik",
+    "image": "https://placehold.co/600x600/8d6e63/ffffff?text=Sogan+Sidomukti",
+    "rating": { "rate": 4.7, "count": 54 }
+  },
+  {
+    "id": 5,
+    "title": "Kemeja Batik Pria Lengan Panjang",
+    "price": 175000,
+    "description": "Kemeja batik pria modern lengan panjang, motif klasik warna cokelat elegan. Jahitan rapi dengan kancing tanduk, cocok untuk kerja maupun acara resmi.",
+    "category": "Pakaian",
+    "image": "https://placehold.co/600x600/5d4037/ffffff?text=Kemeja+Batik",
+    "rating": { "rate": 4.5, "count": 210 }
+  },
+  {
+    "id": 6,
+    "title": "Blus Batik Wanita Modern",
+    "price": 165000,
+    "description": "Blus batik wanita potongan modern dengan motif bunga kontemporer. Bahan rayon jatuh dan adem, nyaman untuk aktivitas seharian.",
+    "category": "Pakaian",
+    "image": "https://placehold.co/600x600/6d4c41/ffffff?text=Blus+Batik",
+    "rating": { "rate": 4.4, "count": 167 }
+  },
+  {
+    "id": 7,
+    "title": "Dress Batik Encim",
+    "price": 220000,
+    "description": "Dress batik Encim bernuansa pesisir dengan warna cerah dan motif bunga. Siluet anggun yang memadukan gaya tradisional dan modern untuk acara semi-formal.",
+    "category": "Pakaian",
+    "image": "https://placehold.co/600x600/a87c1f/ffffff?text=Dress+Encim",
+    "rating": { "rate": 4.6, "count": 89 }
+  },
+  {
+    "id": 8,
+    "title": "Selendang Batik Sutra",
+    "price": 145000,
+    "description": "Selendang batik berbahan sutra lembut dengan motif lung-lungan. Ringan dan mewah, pelengkap busana untuk tampil anggun di acara istimewa.",
+    "category": "Aksesoris",
+    "image": "https://placehold.co/600x600/c9972b/ffffff?text=Selendang+Sutra",
+    "rating": { "rate": 4.7, "count": 63 }
+  },
+  {
+    "id": 9,
+    "title": "Tas Batik Kombinasi Kulit",
+    "price": 230000,
+    "description": "Tas selempang yang memadukan kain batik tulis dengan kulit sintetis premium. Ukuran pas untuk keperluan harian, menonjolkan sentuhan etnik yang stylish.",
+    "category": "Aksesoris",
+    "image": "https://placehold.co/600x600/3e2723/ffffff?text=Tas+Batik",
+    "rating": { "rate": 4.5, "count": 112 }
+  },
+  {
+    "id": 10,
+    "title": "Dompet Batik Handmade",
+    "price": 85000,
+    "description": "Dompet buatan tangan berlapis kain batik dengan banyak slot kartu. Kompak, kuat, dan penuh nilai seni, cocok sebagai hadiah.",
+    "category": "Aksesoris",
+    "image": "https://placehold.co/600x600/8d6e63/ffffff?text=Dompet+Batik",
+    "rating": { "rate": 4.3, "count": 145 }
+  },
+  {
+    "id": 11,
+    "title": "Blangkon Jogja",
+    "price": 95000,
+    "description": "Blangkon khas Yogyakarta dengan motif batik klasik. Penutup kepala tradisional pria Jawa, dijahit rapi dan siap pakai untuk acara adat maupun foto.",
+    "category": "Aksesoris",
+    "image": "https://placehold.co/600x600/5d4037/ffffff?text=Blangkon+Jogja",
+    "rating": { "rate": 4.8, "count": 71 }
+  },
+  {
+    "id": 12,
+    "title": "Masker Kain Batik (Set 3)",
+    "price": 45000,
+    "description": "Set 3 masker kain batik dua lapis yang dapat dicuci ulang. Motif beragam dengan tali elastis nyaman, memadukan pelindung dan gaya.",
+    "category": "Aksesoris",
+    "image": "https://placehold.co/600x600/6d4c41/ffffff?text=Masker+Batik",
+    "rating": { "rate": 4.2, "count": 198 }
+  }
+]
