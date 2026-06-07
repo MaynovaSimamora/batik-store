@@ -1,110 +1,14 @@
 [
-  {
-    "id": 1,
-    "title": "Kain Batik Tulis Parang Rusak",
-    "price": 285000,
-    "description": "Kain batik tulis bermotif Parang Rusak dengan garis diagonal khas keraton. Motif ini melambangkan kekuatan, ketangguhan, dan kesinambungan. Bahan katun primissima halus, cocok untuk acara formal.",
-    "category": "Kain Batik",
-    "image": "https://placehold.co/600x600/5d4037/ffffff/png?text=Batik+Parang",
-    "rating": { "rate": 4.8, "count": 132 }
-  },
-  {
-    "id": 2,
-    "title": "Kain Batik Cap Mega Mendung",
-    "price": 195000,
-    "description": "Motif Mega Mendung khas Cirebon berbentuk gradasi awan bertingkat. Melambangkan kesabaran dan ketenangan. Warna cokelat-biru lembut, bahan katun adem dan nyaman dipakai.",
-    "category": "Kain Batik",
-    "image": "https://placehold.co/600x600/6d4c41/ffffff/png?text=Mega+Mendung",
-    "rating": { "rate": 4.6, "count": 98 }
-  },
-  {
-    "id": 3,
-    "title": "Kain Batik Tulis Kawung",
-    "price": 320000,
-    "description": "Motif Kawung berupa susunan bulatan menyerupai buah aren. Salah satu motif tertua yang melambangkan kesucian dan keadilan. Dibuat dengan teknik tulis tangan penuh.",
-    "category": "Kain Batik",
-    "image": "https://placehold.co/600x600/3e2723/ffffff/png?text=Batik+Kawung",
-    "rating": { "rate": 4.9, "count": 76 }
-  },
-  {
-    "id": 4,
-    "title": "Kain Batik Sogan Sidomukti",
-    "price": 275000,
-    "description": "Batik Sogan khas Solo dengan dominasi warna cokelat tanah. Motif Sidomukti sering dipakai pada acara pernikahan, melambangkan harapan akan kemakmuran dan kebahagiaan.",
-    "category": "Kain Batik",
-    "image": "https://placehold.co/600x600/8d6e63/ffffff/png?text=Sogan+Sidomukti",
-    "rating": { "rate": 4.7, "count": 54 }
-  },
-  {
-    "id": 5,
-    "title": "Kemeja Batik Pria Lengan Panjang",
-    "price": 175000,
-    "description": "Kemeja batik pria modern lengan panjang, motif klasik warna cokelat elegan. Jahitan rapi dengan kancing tanduk, cocok untuk kerja maupun acara resmi.",
-    "category": "Pakaian",
-    "image": "https://placehold.co/600x600/5d4037/ffffff/png?text=Kemeja+Batik",
-    "rating": { "rate": 4.5, "count": 210 }
-  },
-  {
-    "id": 6,
-    "title": "Blus Batik Wanita Modern",
-    "price": 165000,
-    "description": "Blus batik wanita potongan modern dengan motif bunga kontemporer. Bahan rayon jatuh dan adem, nyaman untuk aktivitas seharian.",
-    "category": "Pakaian",
-    "image": "https://placehold.co/600x600/6d4c41/ffffff/png?text=Blus+Batik",
-    "rating": { "rate": 4.4, "count": 167 }
-  },
-  {
-    "id": 7,
-    "title": "Dress Batik Encim",
-    "price": 220000,
-    "description": "Dress batik Encim bernuansa pesisir dengan warna cerah dan motif bunga. Siluet anggun yang memadukan gaya tradisional dan modern untuk acara semi-formal.",
-    "category": "Pakaian",
-    "image": "https://placehold.co/600x600/a87c1f/ffffff/png?text=Dress+Encim",
-    "rating": { "rate": 4.6, "count": 89 }
-  },
-  {
-    "id": 8,
-    "title": "Selendang Batik Sutra",
-    "price": 145000,
-    "description": "Selendang batik berbahan sutra lembut dengan motif lung-lungan. Ringan dan mewah, pelengkap busana untuk tampil anggun di acara istimewa.",
-    "category": "Aksesoris",
-    "image": "https://placehold.co/600x600/c9972b/ffffff/png?text=Selendang+Sutra",
-    "rating": { "rate": 4.7, "count": 63 }
-  },
-  {
-    "id": 9,
-    "title": "Tas Batik Kombinasi Kulit",
-    "price": 230000,
-    "description": "Tas selempang yang memadukan kain batik tulis dengan kulit sintetis premium. Ukuran pas untuk keperluan harian, menonjolkan sentuhan etnik yang stylish.",
-    "category": "Aksesoris",
-    "image": "https://placehold.co/600x600/3e2723/ffffff/png?text=Tas+Batik",
-    "rating": { "rate": 4.5, "count": 112 }
-  },
-  {
-    "id": 10,
-    "title": "Dompet Batik Handmade",
-    "price": 85000,
-    "description": "Dompet buatan tangan berlapis kain batik dengan banyak slot kartu. Kompak, kuat, dan penuh nilai seni, cocok sebagai hadiah.",
-    "category": "Aksesoris",
-    "image": "https://placehold.co/600x600/8d6e63/ffffff/png?text=Dompet+Batik",
-    "rating": { "rate": 4.3, "count": 145 }
-  },
-  {
-    "id": 11,
-    "title": "Blangkon Jogja",
-    "price": 95000,
-    "description": "Blangkon khas Yogyakarta dengan motif batik klasik. Penutup kepala tradisional pria Jawa, dijahit rapi dan siap pakai untuk acara adat maupun foto.",
-    "category": "Aksesoris",
-    "image": "https://placehold.co/600x600/5d4037/ffffff/png?text=Blangkon+Jogja",
-    "rating": { "rate": 4.8, "count": 71 }
-  },
-  {
-    "id": 12,
-    "title": "Masker Kain Batik (Set 3)",
-    "price": 45000,
-    "description": "Set 3 masker kain batik dua lapis yang dapat dicuci ulang. Motif beragam dengan tali elastis nyaman, memadukan pelindung dan gaya.",
-    "category": "Aksesoris",
-    "image": "https://placehold.co/600x600/6d4c41/ffffff/png?text=Masker+Batik",
-    "rating": { "rate": 4.2, "count": 198 }
-  }
+  { "id": 1, "title": "Kain Batik Sogan Klasik", "price": 295000, "description": "Kain batik bernuansa Sogan klasik dengan dominasi cokelat tanah dan hitam. Motif bunga rapat khas keraton yang elegan, cocok dijahit menjadi busana resmi maupun acara adat.", "category": "Kain Batik", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/kain1.jpeg", "rating": { "rate": 4.8, "count": 132 } },
+  { "id": 2, "title": "Kain Batik Paisley Cokelat Emas", "price": 250000, "description": "Kain batik motif paisley dan sulur dengan warna cokelat keemasan yang mewah. Detail rapat dan berkelas, memberi kesan hangat dan eksklusif untuk busana istimewa.", "category": "Kain Batik", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/kain2.jpeg", "rating": { "rate": 4.6, "count": 98 } },
+  { "id": 3, "title": "Kain Batik Paisley Biru", "price": 240000, "description": "Kain batik motif paisley bunga dengan paduan biru tua dan krem yang menenangkan. Tampilan klasik nan anggun, pas untuk kemeja maupun gaun.", "category": "Kain Batik", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/kain3.jpeg", "rating": { "rate": 4.7, "count": 76 } },
+  { "id": 4, "title": "Kain Batik Motif Kupu-Kupu", "price": 285000, "description": "Kain batik pesisir bermotif kupu-kupu dan bunga dengan warna biru dan merah marun yang berani. Ceria dan penuh karakter, melambangkan keindahan dan kebebasan.", "category": "Kain Batik", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/kain4.jpeg", "rating": { "rate": 4.9, "count": 89 } },
+  { "id": 5, "title": "Blazer Batik Wanita", "price": 320000, "description": "Blazer wanita memadukan kain batik motif biru elegan dengan bahan polos cokelat dan aksen bros bunga emas. Potongan modern berkelas untuk tampilan formal maupun semi-formal.", "category": "Pakaian", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/baju5.jpeg", "rating": { "rate": 4.5, "count": 167 } },
+  { "id": 6, "title": "Outer Batik Kimono Pink", "price": 215000, "description": "Outer model kimono dengan batik warna pink ceria bermotif bunga. Ringan dan feminin, cocok dipadukan dengan busana harian agar tampil lebih segar.", "category": "Pakaian", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/baju6.jpeg", "rating": { "rate": 4.4, "count": 142 } },
+  { "id": 7, "title": "Kebaya Batik Encim Hitam Putih", "price": 350000, "description": "Kebaya batik Encim hitam putih dengan bordir bunga dan tepi renda yang halus. Anggun dan timeless, pilihan tepat untuk acara resmi dan perayaan.", "category": "Pakaian", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/baju7.jpeg", "rating": { "rate": 4.8, "count": 95 } },
+  { "id": 8, "title": "Gelang Batik Set", "price": 120000, "description": "Set gelang berlapis kain batik dengan bingkai logam keemasan dalam aneka motif dan warna. Aksesori etnik yang mempercantik penampilan sehari-hari.", "category": "Aksesoris", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/aksesoris8.jpeg", "rating": { "rate": 4.5, "count": 210 } },
+  { "id": 9, "title": "Selendang Batik Rumbai", "price": 145000, "description": "Selendang batik panjang bermotif paisley dan bunga dengan ujung berumbai. Ringan dan serbaguna, pelengkap busana untuk tampil lebih anggun.", "category": "Aksesoris", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/aksesoris9.jpeg", "rating": { "rate": 4.7, "count": 63 } },
+  { "id": 10, "title": "Sarung Pareo Batik Rumbai", "price": 175000, "description": "Kain pareo batik motif bunga warna marun dan emas dengan hiasan rumbai makrame. Cocok sebagai pelilit pinggang, selendang, atau busana pantai bergaya etnik.", "category": "Aksesoris", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/aksesoris10.jpeg", "rating": { "rate": 4.6, "count": 71 } },
+  { "id": 11, "title": "Kalung Batik Etnik", "price": 95000, "description": "Kalung etnik dari lilitan kain batik cokelat-putih dipadukan manik kayu alami. Ringan dan unik, sentuhan tradisional untuk penampilan yang berbeda.", "category": "Aksesoris", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/aksesoris11.jpeg", "rating": { "rate": 4.3, "count": 88 } },
+  { "id": 12, "title": "Bandana Batik", "price": 55000, "description": "Bandana atau ikat kepala batik warna kuning bermotif bunga yang cerah. Praktis dan stylish, mempermanis gaya rambut sehari-hari.", "category": "Aksesoris", "image": "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/images/aksesoris12.jpeg", "rating": { "rate": 4.2, "count": 198 } }
 ]
