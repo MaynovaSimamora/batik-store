@@ -15,6 +15,7 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+import com.example.batikstore.util.PriceUtil;
 
 import com.example.batikstore.CheckoutActivity;
 import com.example.batikstore.R;

@@ -23,6 +23,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import com.example.batikstore.util.PriceUtil;
 
 public class CheckoutActivity extends AppCompatActivity {
 

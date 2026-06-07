@@ -15,6 +15,7 @@ import com.example.batikstore.db.ProductDao;
 import com.example.batikstore.model.Product;
 import com.google.android.material.appbar.MaterialToolbar;
 import com.google.android.material.button.MaterialButton;
+import com.example.batikstore.util.PriceUtil;
 
 import java.util.Locale;
 import java.util.concurrent.ExecutorService;
