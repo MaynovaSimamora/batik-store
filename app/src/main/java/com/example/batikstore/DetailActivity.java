@@ -56,7 +56,7 @@ public class DetailActivity extends AppCompatActivity {
 
         title.setText(product.getTitle());
         category.setText(product.getCategory());
-        price.setText(String.format(Locale.US, "$%.2f", product.getPrice()));
+        price.setText(PriceUtil.formatRupiah(product.getPrice()));
         description.setText(product.getDescription());
         if (product.getRating() != null) {
             rating.setText(String.format(Locale.US, "★ %.1f / 5  (%d ulasan)",

@@ -47,7 +47,7 @@ public class CheckoutActivity extends AppCompatActivity {
         Spinner spinner = findViewById(R.id.spinner_payment);
         MaterialButton btnOrder = findViewById(R.id.btn_place_order);
 
-        tvTotal.setText(String.format(Locale.US, "$%.2f", total));
+        tvTotal.setText(PriceUtil.formatRupiah(total));
 
         String[] methods = {"Transfer Bank", "COD (Bayar di Tempat)", "E-Wallet", "Kartu Kredit"};
         spinner.setAdapter(new ArrayAdapter<>(this,

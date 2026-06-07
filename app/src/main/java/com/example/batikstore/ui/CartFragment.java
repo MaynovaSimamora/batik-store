@@ -96,7 +96,7 @@ public class CartFragment extends Fragment {
                 cachedTotal = finalTotal;
                 adapter.setItems(items);
                 tvEmpty.setVisibility(items.isEmpty() ? View.VISIBLE : View.GONE);
-                tvTotal.setText(String.format(Locale.US, "$%.2f", finalTotal));
+                tvTotal.setText(PriceUtil.formatRupiah(finalTotal));
             });
         });
     }

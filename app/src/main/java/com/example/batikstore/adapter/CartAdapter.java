@@ -16,6 +16,7 @@ import com.example.batikstore.model.CartItem;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
+import com.example.batikstore.util.PriceUtil;
 
 public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
 
@@ -47,7 +48,7 @@ public class CartAdapter extends RecyclerView.Adapter<CartAdapter.ViewHolder> {
     public void onBindViewHolder(@NonNull ViewHolder h, int pos) {
         CartItem c = items.get(pos);
         h.title.setText(c.getTitle());
-        h.price.setText(String.format(Locale.US, "$%.2f", c.getPrice()));
+        h.price.setText(PriceUtil.formatRupiah(c.getPrice()));
         h.qty.setText(String.valueOf(c.getQuantity()));
         Glide.with(h.itemView.getContext()).load(c.getImage()).centerInside().into(h.image);
 

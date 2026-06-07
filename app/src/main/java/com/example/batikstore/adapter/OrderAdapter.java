@@ -40,7 +40,7 @@ public class OrderAdapter extends RecyclerView.Adapter<OrderAdapter.ViewHolder> 
     public void onBindViewHolder(@NonNull ViewHolder h, int pos) {
         Order o = items.get(pos);
         h.date.setText(sdf.format(new Date(o.getDateMillis())));
-        h.total.setText(String.format(Locale.US, "$%.2f", o.getTotal()));
+        h.total.setText(PriceUtil.formatRupiah(o.getTotal()));
         h.items.setText(o.getItemTitles());
         h.payment.setText("Pembayaran: " + o.getPayment() + "  •  " + o.getSummary());
     }
