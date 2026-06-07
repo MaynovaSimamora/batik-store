@@ -6,6 +6,6 @@ import retrofit2.Call;
 import retrofit2.http.GET;
 
 public interface ApiService {
-    @GET("products")
+    @GET("products.json")
     Call<List<Product>> getProducts();
 }

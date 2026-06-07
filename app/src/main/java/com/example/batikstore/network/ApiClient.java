@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
 
-    private static final String BASE_URL = "https://fakestoreapi.com/";
+    private static final String BASE_URL = "https://raw.githubusercontent.com/MaynovaSimamora/batik-store/main/";
     private static Retrofit retrofit;
 
     public static ApiService getApiService() {

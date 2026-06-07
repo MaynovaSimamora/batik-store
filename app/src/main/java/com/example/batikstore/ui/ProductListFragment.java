@@ -173,6 +173,7 @@ public class ProductListFragment extends Fragment {
         executor.execute(() -> {
             ProductDao dao = AppDatabase.getInstance(requireContext()).productDao();
             Set<Integer> favIds = new HashSet<>(dao.getFavoriteIds());
+            dao.deleteAll(); // hapus data lama supaya tidak tercampur
             for (Product p : apiProducts) if (favIds.contains(p.getId())) p.setFavorite(true);
             dao.insertAll(apiProducts);
             List<Product> fromDb = dao.getAll();
