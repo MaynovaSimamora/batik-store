@@ -12,6 +12,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.bumptech.glide.Glide;
 import com.example.batikstore.R;
 import com.example.batikstore.model.Product;
+import com.example.batikstore.util.PriceUtil;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -49,7 +50,7 @@ public class ProductAdapter extends RecyclerView.Adapter<ProductAdapter.ViewHold
         Product p = items.get(position);
         holder.title.setText(p.getTitle());
         holder.category.setText(p.getCategory());
-        holder.price.setText(String.format(Locale.US, "$%.2f", p.getPrice()));
+        holder.price.setText(PriceUtil.formatRupiah(p.getPrice()));
 
         if (p.getRating() != null) {
             holder.rating.setText(String.format(Locale.US, "★ %.1f (%d)",
